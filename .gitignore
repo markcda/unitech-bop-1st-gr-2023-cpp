@@ -1,3 +1,4 @@
 
 *.idx
 .directory
+*.out
